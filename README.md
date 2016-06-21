@@ -1,7 +1,7 @@
-# åŸºäºflaskæ¡†æ¶çš„å¾®ä¿¡å‘é€æŠ¥è­¦ä¿¡æ¯api
-è¿™ä¸ªapiå°±æ˜¯é€šè¿‡å¾®ä¿¡çš„ä¼ä¸šå·å‘é€æ¶ˆæ¯ã€‚
-## å®‰è£…æ–¹æ³•
-æˆ‘ä»¬ä½¿ç”¨virtualenvæ¥ç®¡ç†Pythonç¯å¢ƒï¼Œyumå®‰è£…éœ€åˆ‡åˆ°rootè´¦å·
+# »ùÓÚflask¿ò¼ÜµÄÎ¢ĞÅ·¢ËÍ±¨¾¯ĞÅÏ¢api
+Õâ¸öapi¾ÍÊÇÍ¨¹ıÎ¢ĞÅµÄÆóÒµºÅ·¢ËÍÏûÏ¢¡£
+## °²×°·½·¨
+ÎÒÃÇÊ¹ÓÃvirtualenvÀ´¹ÜÀíPython»·¾³£¬yum°²×°ĞèÇĞµ½rootÕËºÅ
 ```bash
 yum install -y python-virtualenv
 
@@ -10,26 +10,26 @@ $ virtualenv ./env
 
 $ ./env/bin/pip install -r install_requirements.txt
 ```
-## é…ç½®æ–¹æ³•
+## ÅäÖÃ·½·¨
 ```bash
 vim config.py
 
-Debug = True (å¼€å¯Debugæ¨¡å¼)
-save_token = True  ï¼ˆä¿å­˜tokenï¼‰
+Debug = True (¿ªÆôDebugÄ£Ê½)
+save_token = True  £¨±£´ætoken£©
 
 ```
-è¯·æ±‚ç¤ºä¾‹
+ÇëÇóÊ¾Àı
 ```bash
 curl 192.168.0.39:5000 -d 'CorpID=ID&Secret=secret&content=message'
 ```
 
-## è¿›ç¨‹ç®¡ç†
-ç»Ÿä¸€ä½¿ç”¨çš„minosçš„ç®¡ç†å·¥å…·control
+## ½ø³Ì¹ÜÀí
+Í³Ò»Ê¹ÓÃµÄminosµÄ¹ÜÀí¹¤¾ßcontrol
 ```bash
-./weixinserver start å¯åŠ¨è¿›ç¨‹
-./weixinserver stop åœæ­¢è¿›ç¨‹
-./weixinserver restart é‡å¯è¿›ç¨‹
-./weixinserver status æŸ¥çœ‹è¿›ç¨‹çŠ¶æ€
-./weixinserver tail ç”¨tail -fçš„æ–¹å¼æŸ¥çœ‹var/app.log
+./weixinserver start Æô¶¯½ø³Ì
+./weixinserver stop Í£Ö¹½ø³Ì
+./weixinserver restart ÖØÆô½ø³Ì
+./weixinserver status ²é¿´½ø³Ì×´Ì¬
+./weixinserver tail ÓÃtail -fµÄ·½Ê½²é¿´var/app.log
 ```
-###logæ–‡ä»¶æ˜¯å¾®ä¿¡æ¥å£ç›¸å…³æ—¥å¿—æ–‡ä»¶ ç›¸å…³flashæ¡†æ¶çš„æ—¥å¿—æ–‡ä»¶åœ¨å®‰è£…å¥½çš„è™šæ‹Ÿç¯å¢ƒä¸‹varç›®å½•ä¸‹ã€‚
+###logÎÄ¼şÊÇÎ¢ĞÅ½Ó¿ÚÏà¹ØÈÕÖ¾ÎÄ¼ş Ïà¹Øflash¿ò¼ÜµÄÈÕÖ¾ÎÄ¼şÔÚ°²×°ºÃµÄĞéÄâ»·¾³ÏÂvarÄ¿Â¼ÏÂ¡£
