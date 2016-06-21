@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 基于flask框架的微信发送报警信息api
 这个api就是通过微信的企业号发送消息。
 ## 安装方法
@@ -33,3 +34,7 @@ curl 192.168.0.39:5000 -d 'CorpID=ID&Secret=secret&content=message'
 ./weixinserver tail 用tail -f的方式查看var/app.log
 ```
 ###log文件是微信接口相关日志文件 相关flash框架的日志文件在安装好的虚拟环境下var目录下。
+=======
+# weixin_api
+weixin_api
+>>>>>>> b01ae153adcb9405920cf1fe6308afb76d305359
