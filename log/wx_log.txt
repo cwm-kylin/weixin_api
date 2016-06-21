@@ -1,0 +1,8 @@
+{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}返回值:{"errcode":40014,"errmsg":"invalid access_token"}
+{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}返回值:{"errcode":40014,"errmsg":"invalid access_token"}
+{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}返回值:{"errcode":40014,"errmsg":"invalid access_token"}
+{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}返回值:{"errcode":40014,"errmsg":"invalid access_token"}
+{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}返回值:{"errcode":40014,"errmsg":"invalid access_token"}
+{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}返回值:{"errcode":0,"errmsg":"ok"}
+返回值:{"errcode":0,"errmsg":"ok"}
+{u'errcode': 40013, u'errmsg': u'invalid corpid'}{u'errcode': 40013, u'errmsg': u'invalid corpid'}返回值:{"errcode":0,"errmsg":"ok"}

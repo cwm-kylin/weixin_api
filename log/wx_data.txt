@@ -1,0 +1,18 @@
+{"text": {"content": "kakdsssss"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 0, "toparty": ""}
+{"totag": "", "msgtype": "news", "news": {"articles": [{"url": "http://news.baidu.com", "picurl": "http://d.hiphotos.baidu.com/image/w%3D2048/sign=a29e35bb8813632715edc533a5b7a1ec/d8f9d72a6059252d676bb463369b033b5bb5b95d.jpg", "description": "HELLO WORD!", "title": "测试新闻"}]}, "touser": "@all", "agentid": 0, "toparty": ""}
+{"totag": "", "msgtype": "news", "news": {"articles": [{"url": "http://news.baidu.com", "picurl": "http://d.hiphotos.baidu.com/image/w%3D2048/sign=a29e35bb8813632715edc533a5b7a1ec/d8f9d72a6059252d676bb463369b033b5bb5b95d.jpg", "description": "兰兰化", "title": "测试新闻"}]}, "touser": "@all", "agentid": 0, "toparty": ""}
+{"totag": "", "msgtype": "news", "news": {"articles": [{"url": "http://news.baidu.com", "picurl": "http://d.hiphotos.baidu.com/image/w%3D2048/sign=a29e35bb8813632715edc533a5b7a1ec/d8f9d72a6059252d676bb463369b033b5bb5b95d.jpg", "description": "兰兰化", "title": "测试新闻"}]}, "touser": "@all", "agentid": 0, "toparty": ""}
+{"text": {"content": "kakdsssss"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 0, "toparty": ""}
+{"text": {"content": "kakdsssss"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "kakdsssss"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "没有人回啦"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "没有人回啦"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "没有人回啦"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "没有人回啦"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "没有人回啦"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "没有人回啦"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "没有人回啦"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "没有人回啦"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "kakdsssss"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "夏日凉茶"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
+{"text": {"content": "夏日凉茶"}, "safe": 0, "totag": "", "msgtype": "text", "touser": "@all", "agentid": 1, "toparty": ""}
